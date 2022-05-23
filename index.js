@@ -38,19 +38,17 @@
 
 // Q4
 
-//  var num = parseInt(prompt('Enter an integer: '));
-    
-//  document.write("the table of "+num)
-// for(let i = 1; i <= 10; i++) {
+// var table = +prompt("Enter table Number","5")
+// document.write("<p>" + table + " x 1 = " + table*1 +"</p>")
+// document.write("<p>" + table + " x 2 = " + table*1 +"</p>")
+// document.write("<p>" + table + " x 3 = " + table*1 +"</p>")
+// document.write("<p>" + table + " x 4 = " + table*1 +"</p>")
+// document.write("<p>" + table + " x 5 = " + table*1 +"</p>")
+// document.write("<p>" + table + " x 6 = " + table*1 +"</p>")
+// document.write("<p>" + table + " x 7 = " + table*1 +"</p>")
+// document.write("<p>" + table + " x 8 = " + table*1 +"</p>")
+// document.write("<p>" + table + " x 9 = " + table*1 +"</p>")
+// document.write("<p>" + table + " x 10 = " + table*1 +"</p>")
 
-   
-//     const result = i * num;
-//     document.write("<br>");
-
-
-    
-    
-//     document.write(num +"*" +i +"=" +result )
-// }
 
 
